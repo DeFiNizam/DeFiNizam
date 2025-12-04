@@ -1,4 +1,4 @@
-# 🚀 Open-Source AI with NizamNode!🤖🔥
+# 🚀 Open-Source AI with DeFiNizam!🤖🔥
 
 ## 👋 Who Am I?
 Hey there! I'm **Nizam**, an open-source AI enthusiast, developer, and contributor. My mission? To advance artificial intelligence by building innovative, accessible, and ethical AI tools for everyone. 💡💻
@@ -32,9 +32,9 @@ Hey there! I'm **Nizam**, an open-source AI enthusiast, developer, and contribut
 ---
 
 ## 🌍 Let's Connect & Collaborate
-💬 Twitter: [@NizamNode](https://twitter.com/NizamNode)  
-🛠️ GitHub: [NizamNode](https://github.com/NizamNode)  
-🎮 Discord: **NizamNode**  
+💬 Twitter: [@DeFiNizam](https://twitter.com/DeFiNizam)  
+🛠️ GitHub: [DeFiNizam](https://github.com/DeFiNizam)  
+🎮 Discord: **DeFiNizam**  
 
 🚀 **Join me in shaping the future of open-source AI! Let's innovate, collaborate, and push boundaries!** 💡🔥
 
