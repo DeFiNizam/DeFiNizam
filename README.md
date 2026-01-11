@@ -5,7 +5,7 @@ Hey there! I'm **Nizam**, an open-source AI enthusiast, developer, and contribut
 
 ---
 
-## 🔥 What I Build
+## 🔥 What I Build 
 🔹 🤖 **AI Agents** – Intelligent, autonomous agents for research, automation, and assistance.  
 🔹 🛡️ **AI Security & Monitoring** – Open-source AI tools for detecting scams, anomalies, and vulnerabilities.  
 🔹 📊 **AI-Powered Analytics** – Data-driven insights and automation to enhance decision-making.  
