@@ -3,7 +3,7 @@
 I’m a **DeFi & Crypto Technology Researcher** exploring how decentralized systems work in practice.
 My focus is on understanding **protocols, security models, data flows, and on-chain behavior**, using tools, scripts, and AI where helpful — not as a full-time programmer, but as a researcher learning by doing.
 
-I believe the best way to understand DeFi is to **follow the flow**:
+*I believe the best way to understand DeFi is to **follow the flow**:
 
 **📜 Protocol → 📊 Data → 🧠 Behavior → 🛡️ Risk → 🚀 Opportunity**
 
@@ -61,22 +61,22 @@ Sharing research notes, tools, and experiments openly to learn in public.
 
 ## 🌱 Research Philosophy
 
-> Observe first.
-> Read the code.
-> Follow the transactions.
-> Learn from failures.
-> Share what’s understood.
+* Observe first.
+* Read the code.
+* Follow the transactions.
+* Learn from failures.
+* Share what’s understood.
 
-I don’t position myself as a developer or trader —
-I focus on **research, systems, and understanding**.
+*I don’t position myself as a developer or trader —
+*I focus on **research, systems, and understanding**.
 
 ---
 
 ## 🌍 Let’s Connect & Collaborate
 
-💬 **Twitter/X**: [@DeFiNizam](https://twitter.com/DeFiNizam)
-🛠️ **GitHub**: [DeFiNizam](https://github.com/DeFiNizam)
-🎮 **Discord**: **DeFiNizam**
+*💬 **Twitter/X**: [@DeFiNizam](https://twitter.com/DeFiNizam)
+*🛠️ **GitHub**: [DeFiNizam](https://github.com/DeFiNizam)
+*🎮 **Discord**: **DeFiNizam**
 
 🚀 **Join me in exploring DeFi and crypto technologies through open research, shared knowledge, and practical experimentation. Let’s learn, collaborate, and follow the flow.**
 
