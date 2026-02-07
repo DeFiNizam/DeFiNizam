@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nizam (@DeFiNizam)
 
-I’m a **DeFi & Crypto Technology Researcher** exploring how decentralized systems work in practice.
+I’m a **DeFi & WEB3 Technology Researcher** exploring how decentralized systems work in practice.
 My focus is on understanding **protocols, security models, data flows, and on-chain behavior**, using tools, scripts, and AI where helpful — not as a full-time programmer, but as a researcher learning by doing.
 
 I believe the best way to understand DeFi is to **follow the flow**:
@@ -11,7 +11,7 @@ I believe the best way to understand DeFi is to **follow the flow**:
 
 ## 🔍 What I Focus On
 
-### 🧠 DeFi & Crypto Research
+### 🧠 DeFi & WEB3 Research
 
 Studying protocols, token mechanics, incentives, and real-world usage.
 
@@ -35,17 +35,17 @@ Sharing research notes, tools, and experiments openly to learn in public.
 
 ## 🛠️ Tools I Use (Not a Programmer, Just Practical)
 
-* **Scripting & Automation**: Python 
+* **Scripting & Automation**: Python
 * **AI Tools**: Open-source models, Ollama
 * **Workflow**: Git, GitHub, VS Code
 * **Automation**: Bots, APIs, data collectors
 
-  **Domains I Explore:**
+**Domains I Explore:**
 
-  * DeFi protocols
-  * Crypto security
-  * On-chain data
-  * AI + crypto research
+* DeFi protocols
+* WEB3 security
+* On-chain data
+* AI + WEB3 research
 
 ---
 
@@ -55,7 +55,7 @@ Sharing research notes, tools, and experiments openly to learn in public.
 * Understanding how exploits and failures actually happen
 * Exploring AI-assisted research workflows
 * Building small research utilities, not full products
-* Following the crypto & DeFi tech flow rather than hype cycles
+* Following the WEB3 & DeFi tech flow rather than hype cycles
 
 ---
 
@@ -77,6 +77,4 @@ I don’t position myself as a developer or trader — I focus on **research, sy
 * 🛠️ **GitHub**: [DeFiNizam](https://github.com/DeFiNizam)
 * 🎮 **Discord**: **DeFiNizam**
 
-🚀 **Join me in exploring DeFi and crypto technologies through open research, shared knowledge, and practical experimentation. Let’s learn, collaborate, and follow the flow.**
-
-
+🚀 **Join me in exploring DeFi and WEB3 technologies through open research, shared knowledge, and practical experimentation. Let’s learn, collaborate, and follow the flow.**
