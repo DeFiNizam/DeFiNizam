@@ -36,7 +36,7 @@ Sharing research notes, tools, and experiments openly to learn in public.
 ## 🛠️ Tools I Use (Not a Programmer, Just Practical)
 
 * **Scripting & Automation**: Python
-* **AI Tools**: Open-source models, Ollama
+* **AI Tools**: Open-source models
 * **Workflow**: Git, GitHub, VS Code
 * **Automation**: Bots, APIs, data collectors
 
@@ -67,7 +67,7 @@ Sharing research notes, tools, and experiments openly to learn in public.
 * Learn from failures.
 * Share what’s understood.
 
-I don’t position myself as a developer or trader — I focus on **research, systems, and understanding**.
+I don’t claim to be a developer or trader — I focus on ##research, systems, and understanding##.
 
 ---
 
