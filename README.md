@@ -71,7 +71,7 @@ I don’t claim to be a developer or trader — I focus on **research, systems, 
 
 ---
 
-## 🌍 Let’s Connect & Collaborate
+## 🌍 Let’s Connect
 
 * 💬 **Twitter/X**: [@DeFiNizam](https://twitter.com/DeFiNizam)
 * 🛠️ **GitHub**: [DeFiNizam](https://github.com/DeFiNizam)
