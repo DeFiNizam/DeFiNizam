@@ -9,7 +9,7 @@ I believe the best way to understand DeFi is to **follow the flow**:
 
 ---
 
-## 🔍 What I Focus On
+## 🔍 What I Focus On 
 
 ### 🧠 DeFi & WEB3 Research
 
