@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nizam (@DeFiNizam)
+# 👋 Hi, I’m Nizam (@DeFiNizam) 
 
 I’m a **DeFi & WEB3 Technology Researcher** exploring how decentralized systems work in practice.
 My focus is on understanding **protocols, security models, data flows, and on-chain behavior**, using tools, scripts, and AI where helpful — not as a full-time programmer, but as a researcher learning by doing.
