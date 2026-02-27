@@ -42,7 +42,7 @@ Sharing research notes, tools, and experiments openly to learn in public.
 
 **Domains I Explore:**
 
-* DeFi protocols
+* DeFi protocols 
 * WEB3 security
 * On-chain data
 * AI + WEB3 research
