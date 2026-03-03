@@ -23,7 +23,7 @@ Researching scams, exploits, attack patterns, and defensive practices in DeFi.
 
 Observing wallet behavior, transactions, and protocol activity to understand trends.
 
-### 🤖 AI-Assisted Research
+### 🤖 AI-Assisted Research 
 
 Using open-source AI tools to analyze information, summarize data, and explore patterns.
 
